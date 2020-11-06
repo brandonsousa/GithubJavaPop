@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Github JavaPop</string>
+
+    <string name="repo_item_name">Repository name</string>
+    <string name="repo_item_description">Repository description</string>
+    <string name="repo_item_forks">1234</string>
+    <string name="repo_item_stars">98</string>
+    <string name="repo_item_owner_avatar">Owner avatar</string>
+    <string name="repo_item_owner_name">Owner namee</string>
+    <string name="repo_item_full_name">Full name</string>
+
+    <string name="menu_search">Search by repo name or username</string>
+
+    <string name="sort_by_name">List by name</string>
+
+</resources>
