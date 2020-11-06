@@ -4,6 +4,9 @@
 Simple android application, java, which lists the first page of the [github api](https://api.github.com/search/repositories?q=language:Java&sort=stars&page=1) with the 
 java applications.
 
+Application:
+![](show.gif)
+
 ### Used:
     - CardView
     - RecyclerView
